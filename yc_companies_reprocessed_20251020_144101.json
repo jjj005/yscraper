@@ -1,0 +1,1160 @@
+{
+  "scrape_date": "2025-10-20T14:41:01.980977",
+  "total_companies": 47,
+  "companies": [
+    {
+      "url": "https://www.ycombinator.com/companies/caire-health",
+      "name": "Caire HealthFL, USASemi-Autonomous Diagnostics for Emergent CareSummer 2021HealthcareDiagnostics",
+      "description": "©2025Y Combinator",
+      "batch": "S21",
+      "location": "FL",
+      "founded_year": "2021",
+      "team_size": "3",
+      "status": "Active",
+      "industry": [],
+      "founders": [
+        {
+          "name": "Anmol Warman",
+          "title": "Founder",
+          "linkedin": "https://www.linkedin.com/in/anmol-warman-139820160/",
+          "twitter": ""
+        },
+        {
+          "name": "Pranav Warman",
+          "title": "Founder",
+          "linkedin": "https://www.linkedin.com/in/pranavwarman/",
+          "twitter": ""
+        },
+        {
+          "name": "Roshan Warman",
+          "title": "Founder",
+          "linkedin": "",
+          "twitter": ""
+        }
+      ],
+      "company_website": "http://cairehealth.com",
+      "jobs": []
+    },
+    {
+      "url": "https://www.ycombinator.com/companies/bloop",
+      "name": "bloopNew",
+      "description": "©2025Y Combinator",
+      "batch": "S21",
+      "location": "New York",
+      "founded_year": "2021",
+      "team_size": "10",
+      "status": "Active",
+      "industry": [],
+      "founders": [
+        {
+          "name": "Louis Knight-Webb",
+          "title": "Founder",
+          "linkedin": "https://www.linkedin.com/in/knightwebb/",
+          "twitter": "https://twitter.com/LouisKnightWebb"
+        },
+        {
+          "name": "Gabriel Gordon-Hall",
+          "title": "Founder",
+          "linkedin": "https://www.linkedin.com/in/gabriel-gordon-hall-54a18812a/",
+          "twitter": "https://twitter.com/ggordonhall"
+        }
+      ],
+      "company_website": "https://bloop.ai",
+      "jobs": []
+    },
+    {
+      "url": "https://www.ycombinator.com/companies/resident-boost",
+      "name": "ZumaSan",
+      "description": "©2025Y Combinator",
+      "batch": "S21",
+      "location": "San Francisco",
+      "founded_year": "2021",
+      "team_size": "30",
+      "status": "Active",
+      "industry": [],
+      "founders": [
+        {
+          "name": "Shiv Gettu",
+          "title": "Founder",
+          "linkedin": "https://www.linkedin.com/in/shiv-gettu-735309ab/",
+          "twitter": ""
+        },
+        {
+          "name": "Kendrick Bradley",
+          "title": "Founder",
+          "linkedin": "https://www.linkedin.com/in/kendrick-bradley-3b094a108/",
+          "twitter": ""
+        }
+      ],
+      "company_website": "https://www.getzuma.com/",
+      "jobs": []
+    },
+    {
+      "url": "https://www.ycombinator.com/companies/mentum",
+      "name": "MentumSan",
+      "description": "©2025Y Combinator",
+      "batch": "S21",
+      "location": "San Francisco",
+      "founded_year": "2021",
+      "team_size": "2",
+      "status": "Active",
+      "industry": [],
+      "founders": [
+        {
+          "name": "Gus Trigos",
+          "title": "Founder",
+          "linkedin": "https://www.linkedin.com/in/gustavoatrigos",
+          "twitter": ""
+        }
+      ],
+      "company_website": "http://getmentum.com",
+      "jobs": []
+    },
+    {
+      "url": "https://www.ycombinator.com/companies/patterns",
+      "name": "PatternsSan",
+      "description": "©2025Y Combinator",
+      "batch": "S21",
+      "location": "San Francisco",
+      "founded_year": "2021",
+      "team_size": "2",
+      "status": "Active",
+      "industry": [],
+      "founders": [
+        {
+          "name": "Chris Stanley",
+          "title": "Founder",
+          "linkedin": "https://www.linkedin.com/in/chris-stanley-29b20519/",
+          "twitter": ""
+        }
+      ],
+      "company_website": "https://patterns.app/",
+      "jobs": []
+    },
+    {
+      "url": "https://www.ycombinator.com/companies/potion",
+      "name": "PotionSan",
+      "description": "©2025Y Combinator",
+      "batch": "S21",
+      "location": "San Francisco",
+      "founded_year": "2019",
+      "team_size": "7",
+      "status": "Active",
+      "industry": [],
+      "founders": [
+        {
+          "name": "Yahya Syed",
+          "title": "Founder",
+          "linkedin": "https://www.linkedin.com/in/yahya-syed/",
+          "twitter": "https://twitter.com/yahyayup"
+        },
+        {
+          "name": "Hejab Malik",
+          "title": "Founder",
+          "linkedin": "https://www.linkedin.com/in/hejab-malik-873135b8/",
+          "twitter": ""
+        },
+        {
+          "name": "Alex Stec",
+          "title": "Founder",
+          "linkedin": "https://www.linkedin.com/in/alex-stec/",
+          "twitter": ""
+        }
+      ],
+      "company_website": "https://www.potion.ai",
+      "jobs": []
+    },
+    {
+      "url": "https://www.ycombinator.com/companies/staffbar",
+      "name": "SuperwallNew",
+      "description": "©2025Y Combinator",
+      "batch": "S21",
+      "location": "New York",
+      "founded_year": "2021",
+      "team_size": "10",
+      "status": "Active",
+      "industry": [],
+      "founders": [
+        {
+          "name": "Brian Anglin",
+          "title": "Founder",
+          "linkedin": "https://www.linkedin.com/in/anglinb/",
+          "twitter": "https://twitter.com/BriansAngles"
+        },
+        {
+          "name": "Jake Mor",
+          "title": "Founder",
+          "linkedin": "https://www.linkedin.com/in/jake-mor-3b397392/",
+          "twitter": ""
+        }
+      ],
+      "company_website": "https://superwall.com",
+      "jobs": []
+    },
+    {
+      "url": "https://www.ycombinator.com/companies/reframe",
+      "name": "Reframe (Glucobit)Atlanta, GA, USAApp to help people quit or cut back on alcohol useSummer 2021HealthcareConsumer Health and Wellness",
+      "description": "©2025Y Combinator",
+      "batch": "S21",
+      "location": "Atlanta, GA",
+      "founded_year": "2018",
+      "team_size": "35",
+      "status": "Active",
+      "industry": [],
+      "founders": [
+        {
+          "name": "Vedant Pradeep",
+          "title": "Founder",
+          "linkedin": "https://www.linkedin.com/in/vedantpradeep",
+          "twitter": ""
+        },
+        {
+          "name": "Ziyi Gao",
+          "title": "Founder",
+          "linkedin": "https://www.linkedin.com/in/ziyigao67/",
+          "twitter": ""
+        }
+      ],
+      "company_website": "https://www.joinreframeapp.com/",
+      "jobs": []
+    },
+    {
+      "url": "https://www.ycombinator.com/companies/recover",
+      "name": "RecoverSan",
+      "description": "©2025Y Combinator",
+      "batch": "W21",
+      "location": "",
+      "founded_year": "2021",
+      "team_size": "10",
+      "status": "Active",
+      "industry": [],
+      "founders": [
+        {
+          "name": "Nick Gulino",
+          "title": "Founder and CEO",
+          "linkedin": "https://www.linkedin.com/in/nick-gulino-aa680a7a",
+          "twitter": ""
+        }
+      ],
+      "company_website": "https://www.letsrecover.com",
+      "jobs": []
+    },
+    {
+      "url": "https://www.ycombinator.com/companies/stoke-space",
+      "name": "Stoke Space",
+      "description": "©2025Y Combinator",
+      "batch": "W21",
+      "location": "Seattle, WA",
+      "founded_year": "2019",
+      "team_size": "85",
+      "status": "Active",
+      "industry": [],
+      "founders": [
+        {
+          "name": "Andy Lapsa",
+          "title": "Founder",
+          "linkedin": "https://www.linkedin.com/in/andrew-lapsa-96a7b771/",
+          "twitter": ""
+        },
+        {
+          "name": "Tom Feldman",
+          "title": "Founder",
+          "linkedin": "https://www.linkedin.com/in/thomas-feldman-817402100/",
+          "twitter": ""
+        }
+      ],
+      "company_website": "https://www.stokespace.com/",
+      "jobs": []
+    },
+    {
+      "url": "https://www.ycombinator.com/companies/darrow",
+      "name": "DarrowTel Aviv-",
+      "description": "©2025Y Combinator",
+      "batch": "W21",
+      "location": "Tel Aviv-Yafo, Israel",
+      "founded_year": "2020",
+      "team_size": "95",
+      "status": "Active",
+      "industry": [],
+      "founders": [
+        {
+          "name": "Evyatar Ben Artzi",
+          "title": "Founder",
+          "linkedin": "https://www.linkedin.com/in/evyatar-ben-artzi",
+          "twitter": ""
+        },
+        {
+          "name": "Gila Hayat",
+          "title": "Founder",
+          "linkedin": "https://www.linkedin.com/in/gilahayat/",
+          "twitter": ""
+        },
+        {
+          "name": "Elad Spiegelman",
+          "title": "Founder",
+          "linkedin": "https://www.linkedin.com/in/elad-spiegelman-1a47a0103/",
+          "twitter": ""
+        }
+      ],
+      "company_website": "https://darrow.ai/",
+      "jobs": []
+    },
+    {
+      "url": "https://www.ycombinator.com/companies/measured",
+      "name": "MeasuredNew",
+      "description": "©2025Y Combinator",
+      "batch": "W21",
+      "location": "New York",
+      "founded_year": "2021",
+      "team_size": "5",
+      "status": "Active",
+      "industry": [],
+      "founders": [
+        {
+          "name": "Monji Dolon",
+          "title": "Founder",
+          "linkedin": "https://www.linkedin.com/in/mdolon",
+          "twitter": "http://twitter.com/mdolon"
+        }
+      ],
+      "company_website": "https://trymeasured.com/",
+      "jobs": []
+    },
+    {
+      "url": "https://www.ycombinator.com/companies/hermes-robotics",
+      "name": "Hermes RoboticsSan",
+      "description": "©2025Y Combinator",
+      "batch": "W21",
+      "location": "San Francisco",
+      "founded_year": "",
+      "team_size": "5",
+      "status": "Active",
+      "industry": [],
+      "founders": [
+        {
+          "name": "Guilhem Herail",
+          "title": "Founder",
+          "linkedin": "https://www.linkedin.com/in/guilhemherail/",
+          "twitter": "https://twitter.com/guilhemherail"
+        }
+      ],
+      "company_website": "http://hermes-robotics.com",
+      "jobs": []
+    },
+    {
+      "url": "https://www.ycombinator.com/companies/quadrant-health",
+      "name": "Quadrant HealthNew",
+      "description": "©2025Y Combinator",
+      "batch": "W21",
+      "location": "New York",
+      "founded_year": "2021",
+      "team_size": "7",
+      "status": "Active",
+      "industry": [],
+      "founders": [
+        {
+          "name": "Anin Sayana",
+          "title": "Founder",
+          "linkedin": "https://www.linkedin.com/in/anin-sayana-981189bb/",
+          "twitter": ""
+        },
+        {
+          "name": "Krishna Gorrepati",
+          "title": "Founder",
+          "linkedin": "https://www.linkedin.com/in/krishna-gorrepati/",
+          "twitter": ""
+        }
+      ],
+      "company_website": "https://quadrant.health",
+      "jobs": []
+    },
+    {
+      "url": "https://www.ycombinator.com/companies/prequel",
+      "name": "PrequelNew",
+      "description": "©2025Y Combinator",
+      "batch": "W21",
+      "location": "New York",
+      "founded_year": "2020",
+      "team_size": "9",
+      "status": "Active",
+      "industry": [],
+      "founders": [
+        {
+          "name": "Charles Chretien",
+          "title": "Founder",
+          "linkedin": "https://www.linkedin.com/in/charles-chretien-94350146/",
+          "twitter": ""
+        },
+        {
+          "name": "Conor McCarter",
+          "title": "Founder",
+          "linkedin": "https://www.linkedin.com/in/conormccarter/",
+          "twitter": ""
+        }
+      ],
+      "company_website": "https://prequel.co",
+      "jobs": []
+    },
+    {
+      "url": "https://www.ycombinator.com/companies/fractional",
+      "name": "FractionalSan",
+      "description": "©2025Y Combinator",
+      "batch": "W21",
+      "location": "San Francisco",
+      "founded_year": "2021",
+      "team_size": "10",
+      "status": "Active",
+      "industry": [],
+      "founders": [
+        {
+          "name": "Stella Han",
+          "title": "Founder",
+          "linkedin": "https://www.linkedin.com/in/hanstella/",
+          "twitter": "https://twitter.com/hellastellah"
+        },
+        {
+          "name": "Carlos Treviño",
+          "title": "Founder",
+          "linkedin": "https://linkedin.com/in/carlos-trevino",
+          "twitter": "https://twitter.com/rlostrevino"
+        }
+      ],
+      "company_website": "https://fractional.app",
+      "jobs": []
+    },
+    {
+      "url": "https://www.ycombinator.com/companies/pesto",
+      "name": "PestoSan",
+      "description": "©2025Y Combinator",
+      "batch": "W21",
+      "location": "San Francisco",
+      "founded_year": "",
+      "team_size": "8",
+      "status": "Active",
+      "industry": [],
+      "founders": [
+        {
+          "name": "James Savoldelli",
+          "title": "Founder",
+          "linkedin": "https://www.linkedin.com/in/jamessavoldelli/",
+          "twitter": ""
+        }
+      ],
+      "company_website": "https://www.getpesto.com/",
+      "jobs": []
+    },
+    {
+      "url": "https://www.ycombinator.com/companies/powerrouter",
+      "name": "PowerRouter",
+      "description": "©2025Y Combinator",
+      "batch": "W21",
+      "location": "Austin, TX",
+      "founded_year": "",
+      "team_size": "3",
+      "status": "Active",
+      "industry": [],
+      "founders": [
+        {
+          "name": "Tanu Venkatesh",
+          "title": "Founder",
+          "linkedin": "https://www.linkedin.com/in/tanu-v/",
+          "twitter": ""
+        }
+      ],
+      "company_website": "https://www.powerrouter.io",
+      "jobs": []
+    },
+    {
+      "url": "https://www.ycombinator.com/companies/spokn",
+      "name": "SpoknNew",
+      "description": "©2025Y Combinator",
+      "batch": "W21",
+      "location": "New York",
+      "founded_year": "2020",
+      "team_size": "20",
+      "status": "Active",
+      "industry": [],
+      "founders": [
+        {
+          "name": "Fawzy Abu Seif",
+          "title": "Founder",
+          "linkedin": "https://www.linkedin.com/in/fawzy-abu-seif-42a68ab6/",
+          "twitter": "https://twitter.com/Fouz7"
+        },
+        {
+          "name": "Mariel Davis",
+          "title": "Founder",
+          "linkedin": "https://www.linkedin.com/in/davismariel/",
+          "twitter": ""
+        }
+      ],
+      "company_website": "https://getspokn.com/",
+      "jobs": []
+    },
+    {
+      "url": "https://www.ycombinator.com/companies/atomic-industries",
+      "name": "Atomic Industries",
+      "description": "©2025Y Combinator",
+      "batch": "W21",
+      "location": "Detroit, MI",
+      "founded_year": "2021",
+      "team_size": "25",
+      "status": "Active",
+      "industry": [],
+      "founders": [
+        {
+          "name": "Aaron Slodov",
+          "title": "Founder",
+          "linkedin": "https://www.linkedin.com/in/abslodov",
+          "twitter": "https://twitter.com/aphysicist"
+        }
+      ],
+      "company_website": "http://atomic.industries",
+      "jobs": []
+    },
+    {
+      "url": "https://www.ycombinator.com/companies/gaiia",
+      "name": "Gaiia",
+      "description": "©2025Y Combinator",
+      "batch": "W21",
+      "location": "Remote, OR",
+      "founded_year": "2019",
+      "team_size": "40",
+      "status": "Active",
+      "industry": [],
+      "founders": [
+        {
+          "name": "Marc-André Campagna",
+          "title": "Founder",
+          "linkedin": "https://www.linkedin.com/in/marcandrecampagna/",
+          "twitter": "https://twitter.com/ma_campagna"
+        },
+        {
+          "name": "Francis Careau",
+          "title": "Founder",
+          "linkedin": "https://ca.linkedin.com/in/francis-careau-39331063/en",
+          "twitter": ""
+        }
+      ],
+      "company_website": "http://gaiia.com",
+      "jobs": []
+    },
+    {
+      "url": "https://www.ycombinator.com/companies/laudable",
+      "name": "LaudableUnited StatesApp for B2B companies to find customer stories and advocates",
+      "description": "©2025Y Combinator",
+      "batch": "S21",
+      "location": "",
+      "founded_year": "",
+      "team_size": "5",
+      "status": "Acquired",
+      "industry": [],
+      "founders": [
+        {
+          "name": "angela ferrante",
+          "title": "Founder",
+          "linkedin": "https://www.linkedin.com/in/angela-ferrante/",
+          "twitter": ""
+        }
+      ],
+      "company_website": "https://www.laudable.com",
+      "jobs": []
+    },
+    {
+      "url": "https://www.ycombinator.com/companies/enable-us",
+      "name": "Enable UsSan",
+      "description": "©2025Y Combinator",
+      "batch": "W21",
+      "location": "San Francisco",
+      "founded_year": "2020",
+      "team_size": "14",
+      "status": "Acquired",
+      "industry": [],
+      "founders": [
+        {
+          "name": "Adam Pearson",
+          "title": "Founder",
+          "linkedin": "https://www.linkedin.com/in/adam-pearson-048a774?trk=nav_responsive_tab_profile",
+          "twitter": ""
+        }
+      ],
+      "company_website": "https://www.enableus.com",
+      "jobs": []
+    },
+    {
+      "url": "https://www.ycombinator.com/companies/emerge-tools",
+      "name": "Emerge ToolsSanta",
+      "description": "©2025Y Combinator",
+      "batch": "W21",
+      "location": "Santa Monica, CA",
+      "founded_year": "2020",
+      "team_size": "9",
+      "status": "Acquired",
+      "industry": [],
+      "founders": [
+        {
+          "name": "Josh Cohenzadeh",
+          "title": "Founder",
+          "linkedin": "https://www.linkedin.com/in/josh-cohenzadeh-4ab75138/",
+          "twitter": "https://twitter.com/jshchnz/"
+        },
+        {
+          "name": "Noah Martin",
+          "title": "Founder",
+          "linkedin": "https://www.linkedin.com/in/noahsmartin/",
+          "twitter": "https://twitter.com/sond813"
+        }
+      ],
+      "company_website": "https://www.emergetools.com/",
+      "jobs": []
+    },
+    {
+      "url": "https://www.ycombinator.com/companies/hyper",
+      "name": "HyperPalo",
+      "description": "©2025Y Combinator",
+      "batch": "S21",
+      "location": "Palo Alto",
+      "founded_year": "2020",
+      "team_size": "6",
+      "status": "Acquired",
+      "industry": [],
+      "founders": [
+        {
+          "name": "Ben Botvinick",
+          "title": "Founder",
+          "linkedin": "https://www.linkedin.com/in/botv",
+          "twitter": "https://twitter.com/benbotvinick"
+        }
+      ],
+      "company_website": "https://hyper.co",
+      "jobs": []
+    },
+    {
+      "url": "https://www.ycombinator.com/companies/charge-running",
+      "name": "Charge Running",
+      "description": "©2025Y Combinator",
+      "batch": "W21",
+      "location": "Chicago, IL",
+      "founded_year": "2016",
+      "team_size": "3",
+      "status": "Inactive",
+      "industry": [],
+      "founders": [
+        {
+          "name": "Julie Wallock",
+          "title": "Founder",
+          "linkedin": "https://www.linkedin.com/in/julie-wallock-447296126/",
+          "twitter": "https://twitter.com/JWall_Lynn"
+        }
+      ],
+      "company_website": "http://www.chargerunning.com",
+      "jobs": []
+    },
+    {
+      "url": "https://www.ycombinator.com/companies/slashauth",
+      "name": "SlashAuthSan",
+      "description": "©2025Y Combinator",
+      "batch": "W21",
+      "location": "San Francisco",
+      "founded_year": "2020",
+      "team_size": "3",
+      "status": "Inactive",
+      "industry": [],
+      "founders": [
+        {
+          "name": "Ned Rockson",
+          "title": "Founder",
+          "linkedin": "https://www.linkedin.com/in/nedrocks",
+          "twitter": "https://www.twitter.com/nedrockson"
+        },
+        {
+          "name": "Nicolas Salhuana",
+          "title": "Founder",
+          "linkedin": "https://www.linkedin.com/in/nicolas-salhuana/",
+          "twitter": ""
+        }
+      ],
+      "company_website": "https://www.slashauth.com",
+      "jobs": []
+    },
+    {
+      "url": "https://www.ycombinator.com/companies/sola",
+      "name": "SolaJersey",
+      "description": "©2025Y Combinator",
+      "batch": "S23",
+      "location": "Jersey City, NJ",
+      "founded_year": "2023",
+      "team_size": "5",
+      "status": "Active",
+      "industry": [],
+      "founders": [
+        {
+          "name": "Jessica Wu",
+          "title": "Founder",
+          "linkedin": "https://linkedin.com/in/jessica-wu-9824431ab",
+          "twitter": "https://twitter.com/jess123555"
+        },
+        {
+          "name": "Neil Deshmukh",
+          "title": "Founder",
+          "linkedin": "https://linkedin.com/in/neildeshmukh",
+          "twitter": "https://twitter.com/NeilDeshmukh"
+        }
+      ],
+      "company_website": "https://www.sola-solutions.com/",
+      "jobs": []
+    },
+    {
+      "url": "https://www.ycombinator.com/companies/twenty",
+      "name": "TwentySan",
+      "description": "©2025Y Combinator",
+      "batch": "S23",
+      "location": "San Francisco",
+      "founded_year": "2023",
+      "team_size": "10",
+      "status": "Active",
+      "industry": [],
+      "founders": [
+        {
+          "name": "Félix Malfait",
+          "title": "Founder",
+          "linkedin": "https://linkedin.com/in/fmalfait",
+          "twitter": ""
+        },
+        {
+          "name": "Charles Bochet",
+          "title": "Founder",
+          "linkedin": "https://linkedin.com/in/charlesbochet",
+          "twitter": ""
+        },
+        {
+          "name": "Thomas des Francs",
+          "title": "Founder",
+          "linkedin": "https://www.linkedin.com/in/tdesfrancs/",
+          "twitter": ""
+        }
+      ],
+      "company_website": "https://twenty.com",
+      "jobs": []
+    },
+    {
+      "url": "https://www.ycombinator.com/companies/corgi-labs",
+      "name": "Corgi LabsSan",
+      "description": "©2025Y Combinator",
+      "batch": "W23",
+      "location": "San Francisco",
+      "founded_year": "2022",
+      "team_size": "3",
+      "status": "Active",
+      "industry": [],
+      "founders": [
+        {
+          "name": "Saif Farooqui",
+          "title": "Founder",
+          "linkedin": "https://www.linkedin.com/in/sfarooqui1/",
+          "twitter": ""
+        }
+      ],
+      "company_website": "https://www.corgilabs.ai",
+      "jobs": []
+    },
+    {
+      "url": "https://www.ycombinator.com/companies/orchid",
+      "name": "OrchidSan",
+      "description": "©2025Y Combinator",
+      "batch": "W23",
+      "location": "San Francisco",
+      "founded_year": "",
+      "team_size": "4",
+      "status": "Active",
+      "industry": [],
+      "founders": [
+        {
+          "name": "Joseph Pomianowski",
+          "title": "Founder",
+          "linkedin": "https://www.linkedin.com/in/company/81293105",
+          "twitter": ""
+        }
+      ],
+      "company_website": "https://orchid.health",
+      "jobs": []
+    },
+    {
+      "url": "https://www.ycombinator.com/companies/aiprise",
+      "name": "AiPriseSanta",
+      "description": "©2025Y Combinator",
+      "batch": "S22",
+      "location": "Santa Clara, CA",
+      "founded_year": "2022",
+      "team_size": "36",
+      "status": "Active",
+      "industry": [],
+      "founders": [
+        {
+          "name": "Chaitanya Sarda",
+          "title": "CEO & co-founder",
+          "linkedin": "http://www.linkedin.com/in/chaitanyasarda",
+          "twitter": ""
+        },
+        {
+          "name": "Rushabh Shah",
+          "title": "Founder/Co-CEO",
+          "linkedin": "https://www.linkedin.com/in/rushabh-shah-b7197198/",
+          "twitter": ""
+        }
+      ],
+      "company_website": "https://aiprise.com/",
+      "jobs": []
+    },
+    {
+      "url": "https://www.ycombinator.com/companies/blee",
+      "name": "BleeNew",
+      "description": "©2025Y Combinator",
+      "batch": "S22",
+      "location": "New York",
+      "founded_year": "2022",
+      "team_size": "5",
+      "status": "Active",
+      "industry": [],
+      "founders": [
+        {
+          "name": "Guy Shahar",
+          "title": "Founder",
+          "linkedin": "http://www.linkedin.com/in/guy-shahar",
+          "twitter": ""
+        }
+      ],
+      "company_website": "https://www.blee.com",
+      "jobs": []
+    },
+    {
+      "url": "https://www.ycombinator.com/companies/dr-treat",
+      "name": "Dr. TreatSan",
+      "description": "©2025Y Combinator",
+      "batch": "S22",
+      "location": "San Francisco",
+      "founded_year": "2021",
+      "team_size": "21",
+      "status": "Active",
+      "industry": [],
+      "founders": [
+        {
+          "name": "Rakesh Tondon",
+          "title": "Founder",
+          "linkedin": "https://www.linkedin.com/in/rakesh-tondon-2524b91/",
+          "twitter": ""
+        },
+        {
+          "name": "Hetal Shah",
+          "title": "Founder",
+          "linkedin": "https://www.linkedin.com/in/hetal-shah-9096002/",
+          "twitter": ""
+        },
+        {
+          "name": "charlie bowman",
+          "title": "Founder",
+          "linkedin": "",
+          "twitter": ""
+        }
+      ],
+      "company_website": "https://www.drtreat.com/",
+      "jobs": []
+    },
+    {
+      "url": "https://www.ycombinator.com/companies/truebiz",
+      "name": "TrueBizNew",
+      "description": "©2025Y Combinator",
+      "batch": "S22",
+      "location": "",
+      "founded_year": "2022",
+      "team_size": "6",
+      "status": "Active",
+      "industry": [],
+      "founders": [
+        {
+          "name": "Danny Hakimian",
+          "title": "Founder",
+          "linkedin": "https://www.linkedin.com/in/dannyhakimian",
+          "twitter": ""
+        }
+      ],
+      "company_website": "https://truebiz.io/",
+      "jobs": []
+    },
+    {
+      "url": "https://www.ycombinator.com/companies/makeasite",
+      "name": "MakeasiteNew",
+      "description": "©2025Y Combinator",
+      "batch": "S22",
+      "location": "New York",
+      "founded_year": "2022",
+      "team_size": "2",
+      "status": "Active",
+      "industry": [],
+      "founders": [
+        {
+          "name": "Neo Cho",
+          "title": "Founder",
+          "linkedin": "https://www.linkedin.com/in/neocho/",
+          "twitter": ""
+        }
+      ],
+      "company_website": "https://makeasite.io",
+      "jobs": []
+    },
+    {
+      "url": "https://www.ycombinator.com/companies/elessar",
+      "name": "ElessarPalo",
+      "description": "©2025Y Combinator",
+      "batch": "S22",
+      "location": "Palo Alto",
+      "founded_year": "2022",
+      "team_size": "2",
+      "status": "Active",
+      "industry": [],
+      "founders": [
+        {
+          "name": "Utkarsh Tandon",
+          "title": "Founder",
+          "linkedin": "https://www.linkedin.com/in/utkarshtandon/",
+          "twitter": ""
+        }
+      ],
+      "company_website": "https://www.getelessar.com/",
+      "jobs": []
+    },
+    {
+      "url": "https://www.ycombinator.com/companies/reviving-mind",
+      "name": "Reviving Mind",
+      "description": "©2025Y Combinator",
+      "batch": "W22",
+      "location": "Boston",
+      "founded_year": "2020",
+      "team_size": "3",
+      "status": "Active",
+      "industry": [],
+      "founders": [
+        {
+          "name": "Rahul Sharma",
+          "title": "Founder",
+          "linkedin": "https://www.linkedin.com/in/rahul-sharma-71a30b62/",
+          "twitter": ""
+        },
+        {
+          "name": "Naina Limbekar",
+          "title": "Founder",
+          "linkedin": "https://www.linkedin.com/in/naina-limbekar-md-mph-2157bb94/",
+          "twitter": ""
+        }
+      ],
+      "company_website": "https://www.revivingmind.com/",
+      "jobs": []
+    },
+    {
+      "url": "https://www.ycombinator.com/companies/lunajoy-health",
+      "name": "LunaJoy Health",
+      "description": "©2025Y Combinator",
+      "batch": "W22",
+      "location": "Atlanta, GA",
+      "founded_year": "2022",
+      "team_size": "6",
+      "status": "Active",
+      "industry": [],
+      "founders": [
+        {
+          "name": "Sipra Laddha",
+          "title": "Founder",
+          "linkedin": "https://www.linkedin.com/in/sipraladdha",
+          "twitter": ""
+        },
+        {
+          "name": "Shama Rathi",
+          "title": "Founder",
+          "linkedin": "https://www.linkedin.com/in/shama-rathi-35878b20b/",
+          "twitter": ""
+        }
+      ],
+      "company_website": "http://HelloLunaJoy.com",
+      "jobs": []
+    },
+    {
+      "url": "https://www.ycombinator.com/companies/shinkei-systems",
+      "name": "Shinkei SystemsEl",
+      "description": "©2025Y Combinator",
+      "batch": "W22",
+      "location": "El Segundo, CA",
+      "founded_year": "2021",
+      "team_size": "28",
+      "status": "Active",
+      "industry": [],
+      "founders": [
+        {
+          "name": "Saif Khawaja",
+          "title": "Founder",
+          "linkedin": "https://www.linkedin.com/in/saifnk/",
+          "twitter": "https://www.twitter.com/khawajasn/"
+        }
+      ],
+      "company_website": "http://www.shinkei.systems",
+      "jobs": []
+    },
+    {
+      "url": "https://www.ycombinator.com/companies/redbird",
+      "name": "RedbirdNew",
+      "description": "©2025Y Combinator",
+      "batch": "W22",
+      "location": "New York",
+      "founded_year": "",
+      "team_size": "",
+      "status": "Active",
+      "industry": [],
+      "founders": [
+        {
+          "name": "Erin Tavgac",
+          "title": "Founder",
+          "linkedin": "https://www.linkedin.com/in/erintavgac/",
+          "twitter": ""
+        },
+        {
+          "name": "Deren Tavgac",
+          "title": "Founder",
+          "linkedin": "https://www.linkedin.com/in/dtavgac/",
+          "twitter": ""
+        }
+      ],
+      "company_website": "https://www.redbird.io",
+      "jobs": []
+    },
+    {
+      "url": "https://www.ycombinator.com/companies/spot-health",
+      "name": "Spot Health",
+      "description": "©2025Y Combinator",
+      "batch": "W22",
+      "location": "Cincinnati, OH",
+      "founded_year": "2021",
+      "team_size": "9",
+      "status": "Active",
+      "industry": [],
+      "founders": [
+        {
+          "name": "Andrew Jajack",
+          "title": "Founder",
+          "linkedin": "https://www.linkedin.com/in/ajajack/",
+          "twitter": ""
+        }
+      ],
+      "company_website": "https://spotdx.com",
+      "jobs": []
+    },
+    {
+      "url": "https://www.ycombinator.com/companies/parabolic",
+      "name": "ParabolicSan",
+      "description": "©2025Y Combinator",
+      "batch": "W23",
+      "location": "San Francisco",
+      "founded_year": "2022",
+      "team_size": "2",
+      "status": "Inactive",
+      "industry": [],
+      "founders": [
+        {
+          "name": "Shub Viragi",
+          "title": "Founder",
+          "linkedin": "https://www.linkedin.com/in/sviragi/",
+          "twitter": ""
+        }
+      ],
+      "company_website": "https://www.growparabolic.com/",
+      "jobs": []
+    },
+    {
+      "url": "https://www.ycombinator.com/companies/capsule",
+      "name": "CAPSULESan",
+      "description": "©2025Y Combinator",
+      "batch": "S22",
+      "location": "San Francisco",
+      "founded_year": "2022",
+      "team_size": "4",
+      "status": "Inactive",
+      "industry": [],
+      "founders": [
+        {
+          "name": "Michele Van Ruiten",
+          "title": "Founder",
+          "linkedin": "http://www.linkedin.com/in/michelevanruiten/",
+          "twitter": ""
+        },
+        {
+          "name": "Kelsey Pedersen",
+          "title": "Founder",
+          "linkedin": "https://www.linkedin.com/in/kelseypedersen/",
+          "twitter": "https://twitter.com/kelsey_pedersen"
+        }
+      ],
+      "company_website": "https://www.shopcapsule.ai/",
+      "jobs": []
+    },
+    {
+      "url": "https://www.ycombinator.com/companies/northwind",
+      "name": "NorthwindLos",
+      "description": "©2025Y Combinator",
+      "batch": "W22",
+      "location": "Los Angeles, CA",
+      "founded_year": "2021",
+      "team_size": "6",
+      "status": "Inactive",
+      "industry": [],
+      "founders": [
+        {
+          "name": "Johannes Vermandois",
+          "title": "Founder",
+          "linkedin": "https://linkedin.com/in/johannesvermandois1",
+          "twitter": ""
+        }
+      ],
+      "company_website": "https://northwindskin.com",
+      "jobs": []
+    },
+    {
+      "url": "https://www.ycombinator.com/companies/saphira-ai",
+      "name": "Saphira AISan",
+      "description": "©2025Y Combinator",
+      "batch": "S24",
+      "location": "San Francisco",
+      "founded_year": "2024",
+      "team_size": "6",
+      "status": "Active",
+      "industry": [],
+      "founders": [
+        {
+          "name": "Akshay Chalana",
+          "title": "Founder",
+          "linkedin": "https://linkedin.com/in/akshay-chalana",
+          "twitter": "https://twitter.com/ac2zoom"
+        },
+        {
+          "name": "Oscar Avatare",
+          "title": "Founder",
+          "linkedin": "https://linkedin.com/in/oavatare",
+          "twitter": ""
+        }
+      ],
+      "company_website": "https://saphira.ai",
+      "jobs": []
+    },
+    {
+      "url": "https://www.ycombinator.com/companies/nuntius",
+      "name": "NuntiusSan",
+      "description": "©2025Y Combinator",
+      "batch": "S25",
+      "location": "San Francisco",
+      "founded_year": "2025",
+      "team_size": "2",
+      "status": "Inactive",
+      "industry": [],
+      "founders": [],
+      "company_website": "https://www.nuntius.ai",
+      "jobs": []
+    }
+  ]
+}

@@ -1,0 +1,9 @@
+# AWS PostgreSQL Database Configuration
+# Create a .env file with these variables and your actual credentials
+
+POSTGRES_HOST=your-db-endpoint.rds.amazonaws.com
+POSTGRES_PORT=5432
+POSTGRES_DATABASE=yc_companies
+POSTGRES_USER=your_username
+POSTGRES_PASSWORD=your_password
+

@@ -1,0 +1,288 @@
+{
+  "date": "2025-10-20T14:01:14.581947",
+  "count": 47,
+  "companies": [
+    {
+      "name": "Caire HealthFL, USASemi-Autonomous Diagnostics for Emergent CareSummer 2021HealthcareDiagnostics",
+      "url": "https://www.ycombinator.com/companies/caire-health",
+      "batch": "S21",
+      "founded_year": "2021"
+    },
+    {
+      "name": "bloopNew",
+      "url": "https://www.ycombinator.com/companies/bloop",
+      "batch": "S21",
+      "founded_year": "2021"
+    },
+    {
+      "name": "ZumaSan",
+      "url": "https://www.ycombinator.com/companies/resident-boost",
+      "batch": "S21",
+      "founded_year": "2021"
+    },
+    {
+      "name": "MentumSan",
+      "url": "https://www.ycombinator.com/companies/mentum",
+      "batch": "S21",
+      "founded_year": "2021"
+    },
+    {
+      "name": "PatternsSan",
+      "url": "https://www.ycombinator.com/companies/patterns",
+      "batch": "S21",
+      "founded_year": "2021"
+    },
+    {
+      "name": "PotionSan",
+      "url": "https://www.ycombinator.com/companies/potion",
+      "batch": "S21",
+      "founded_year": "2019"
+    },
+    {
+      "name": "SuperwallNew",
+      "url": "https://www.ycombinator.com/companies/staffbar",
+      "batch": "S21",
+      "founded_year": "2021"
+    },
+    {
+      "name": "Reframe (Glucobit)Atlanta, GA, USAApp to help people quit or cut back on alcohol useSummer 2021HealthcareConsumer Health and Wellness",
+      "url": "https://www.ycombinator.com/companies/reframe",
+      "batch": "S21",
+      "founded_year": "2018"
+    },
+    {
+      "name": "RecoverSan",
+      "url": "https://www.ycombinator.com/companies/recover",
+      "batch": "W21",
+      "founded_year": "2021"
+    },
+    {
+      "name": "Stoke Space",
+      "url": "https://www.ycombinator.com/companies/stoke-space",
+      "batch": "W21",
+      "founded_year": "2019"
+    },
+    {
+      "name": "DarrowTel Aviv-",
+      "url": "https://www.ycombinator.com/companies/darrow",
+      "batch": "W21",
+      "founded_year": "2020"
+    },
+    {
+      "name": "MeasuredNew",
+      "url": "https://www.ycombinator.com/companies/measured",
+      "batch": "W21",
+      "founded_year": "2021"
+    },
+    {
+      "name": "Hermes RoboticsSan",
+      "url": "https://www.ycombinator.com/companies/hermes-robotics",
+      "batch": "W21",
+      "founded_year": ""
+    },
+    {
+      "name": "Quadrant HealthNew",
+      "url": "https://www.ycombinator.com/companies/quadrant-health",
+      "batch": "W21",
+      "founded_year": "2021"
+    },
+    {
+      "name": "PrequelNew",
+      "url": "https://www.ycombinator.com/companies/prequel",
+      "batch": "W21",
+      "founded_year": "2020"
+    },
+    {
+      "name": "FractionalSan",
+      "url": "https://www.ycombinator.com/companies/fractional",
+      "batch": "W21",
+      "founded_year": "2021"
+    },
+    {
+      "name": "PestoSan",
+      "url": "https://www.ycombinator.com/companies/pesto",
+      "batch": "W21",
+      "founded_year": ""
+    },
+    {
+      "name": "PowerRouter",
+      "url": "https://www.ycombinator.com/companies/powerrouter",
+      "batch": "W21",
+      "founded_year": ""
+    },
+    {
+      "name": "SpoknNew",
+      "url": "https://www.ycombinator.com/companies/spokn",
+      "batch": "W21",
+      "founded_year": "2020"
+    },
+    {
+      "name": "Atomic Industries",
+      "url": "https://www.ycombinator.com/companies/atomic-industries",
+      "batch": "W21",
+      "founded_year": "2021"
+    },
+    {
+      "name": "Gaiia",
+      "url": "https://www.ycombinator.com/companies/gaiia",
+      "batch": "W21",
+      "founded_year": "2019"
+    },
+    {
+      "name": "LaudableUnited StatesApp for B2B companies to find customer stories and advocates",
+      "url": "https://www.ycombinator.com/companies/laudable",
+      "batch": "S21",
+      "founded_year": ""
+    },
+    {
+      "name": "Enable UsSan",
+      "url": "https://www.ycombinator.com/companies/enable-us",
+      "batch": "W21",
+      "founded_year": "2020"
+    },
+    {
+      "name": "Emerge ToolsSanta",
+      "url": "https://www.ycombinator.com/companies/emerge-tools",
+      "batch": "W21",
+      "founded_year": "2020"
+    },
+    {
+      "name": "HyperPalo",
+      "url": "https://www.ycombinator.com/companies/hyper",
+      "batch": "S21",
+      "founded_year": "2020"
+    },
+    {
+      "name": "Charge Running",
+      "url": "https://www.ycombinator.com/companies/charge-running",
+      "batch": "W21",
+      "founded_year": "2016"
+    },
+    {
+      "name": "SlashAuthSan",
+      "url": "https://www.ycombinator.com/companies/slashauth",
+      "batch": "W21",
+      "founded_year": "2020"
+    },
+    {
+      "name": "SolaJersey",
+      "url": "https://www.ycombinator.com/companies/sola",
+      "batch": "S23",
+      "founded_year": "2023"
+    },
+    {
+      "name": "TwentySan",
+      "url": "https://www.ycombinator.com/companies/twenty",
+      "batch": "S23",
+      "founded_year": "2023"
+    },
+    {
+      "name": "Corgi LabsSan",
+      "url": "https://www.ycombinator.com/companies/corgi-labs",
+      "batch": "W23",
+      "founded_year": "2022"
+    },
+    {
+      "name": "OrchidSan",
+      "url": "https://www.ycombinator.com/companies/orchid",
+      "batch": "W23",
+      "founded_year": ""
+    },
+    {
+      "name": "AiPriseSanta",
+      "url": "https://www.ycombinator.com/companies/aiprise",
+      "batch": "S22",
+      "founded_year": "2022"
+    },
+    {
+      "name": "BleeNew",
+      "url": "https://www.ycombinator.com/companies/blee",
+      "batch": "S22",
+      "founded_year": "2022"
+    },
+    {
+      "name": "Dr. TreatSan",
+      "url": "https://www.ycombinator.com/companies/dr-treat",
+      "batch": "S22",
+      "founded_year": "2021"
+    },
+    {
+      "name": "TrueBizNew",
+      "url": "https://www.ycombinator.com/companies/truebiz",
+      "batch": "S22",
+      "founded_year": "2022"
+    },
+    {
+      "name": "MakeasiteNew",
+      "url": "https://www.ycombinator.com/companies/makeasite",
+      "batch": "S22",
+      "founded_year": "2022"
+    },
+    {
+      "name": "ElessarPalo",
+      "url": "https://www.ycombinator.com/companies/elessar",
+      "batch": "S22",
+      "founded_year": "2022"
+    },
+    {
+      "name": "Reviving Mind",
+      "url": "https://www.ycombinator.com/companies/reviving-mind",
+      "batch": "W22",
+      "founded_year": "2020"
+    },
+    {
+      "name": "LunaJoy Health",
+      "url": "https://www.ycombinator.com/companies/lunajoy-health",
+      "batch": "W22",
+      "founded_year": "2022"
+    },
+    {
+      "name": "Shinkei SystemsEl",
+      "url": "https://www.ycombinator.com/companies/shinkei-systems",
+      "batch": "W22",
+      "founded_year": "2021"
+    },
+    {
+      "name": "RedbirdNew",
+      "url": "https://www.ycombinator.com/companies/redbird",
+      "batch": "W22",
+      "founded_year": ""
+    },
+    {
+      "name": "Spot Health",
+      "url": "https://www.ycombinator.com/companies/spot-health",
+      "batch": "W22",
+      "founded_year": "2021"
+    },
+    {
+      "name": "ParabolicSan",
+      "url": "https://www.ycombinator.com/companies/parabolic",
+      "batch": "W23",
+      "founded_year": "2022"
+    },
+    {
+      "name": "CAPSULESan",
+      "url": "https://www.ycombinator.com/companies/capsule",
+      "batch": "S22",
+      "founded_year": "2022"
+    },
+    {
+      "name": "NorthwindLos",
+      "url": "https://www.ycombinator.com/companies/northwind",
+      "batch": "W22",
+      "founded_year": "2021"
+    },
+    {
+      "name": "Saphira AISan",
+      "url": "https://www.ycombinator.com/companies/saphira-ai",
+      "batch": "S24",
+      "founded_year": "2024"
+    },
+    {
+      "name": "NuntiusSan",
+      "url": "https://www.ycombinator.com/companies/nuntius",
+      "batch": "S25",
+      "founded_year": "2025"
+    }
+  ]
+}
